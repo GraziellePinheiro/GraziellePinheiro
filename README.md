@@ -1,6 +1,4 @@
-### Helloow, Seja Muito Bem Vindo ao meu GitHub 👋😄
-
-- Aqui você encontra um pouco do que eu sou e faço todos os dias, tudo feito com muita dedicação e carinho. <3
+### Seja bem vindo ao meu GitHub !
 
 
   
